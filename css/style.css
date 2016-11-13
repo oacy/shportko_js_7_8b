@@ -1,0 +1,26 @@
+label {
+    font-size: 20px;
+    font-family: Arial;
+    width: 100px;
+    display: inline-block;
+}
+
+.form > div {
+    height: 50px;
+}
+
+span {
+    display: inline-block;
+    border: 2px solid deepskyblue;
+    padding: 5px;
+    vertical-align: top;
+}
+
+.form {
+    margin: 0 auto;
+    background-color: aliceblue;
+    border: 2px solid grey;
+    width: 600px;
+    height: 200px;
+    padding: 30px;
+}
